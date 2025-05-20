@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "crazeclient",
+  "version": "1.0.0",
+  "name": "CrazeClient",
+  "description": "Optimized PvP Client with CPS, Keystrokes, HUD and Pojav support",
+  "authors": ["Mehetab"],
+  "entrypoints": {
+    "client": ["com.crazeclient.CrazeClientMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "minecraft": ">=1.14"
+  }
+}
